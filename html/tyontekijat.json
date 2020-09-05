@@ -1,0 +1,8 @@
+{"tyontekijat":
+[
+  {"firstName":"Mauno", "lastName":"Ahonen", "address": "Helsinki","phone": {"home":"0401234567", "work": "0501234567"}},
+  {"firstName":"Matti", "lastName":"Näsä", "address": "turku", "phone": {"home":"0401234567"}},
+  {"firstName":"Raimo", "lastName":"Vormisto", "address": "oulu", "phone": {"work": "0501234567"}},
+  {"firstName":"Timo", "lastName":"Silakka", "address": "Helsinki", "phone": {"home":"0401234567", "work": "0501234567"}}
+]
+}
